@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Woogie&fontAlign=50&fontAlignY=40&color=gradient&customColorList=10,12,20,20,30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Woogie&fontAlign=50&fontAlignY=40&color=gradient&customColorList=3,95,10,20,30&animation=twinkling)
 
 
 
