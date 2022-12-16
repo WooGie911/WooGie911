@@ -37,8 +37,8 @@
   <br>
   <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-square&logo=Jira-Software&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
-    </div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+</div>
 
 <br>
 
