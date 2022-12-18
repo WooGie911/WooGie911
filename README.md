@@ -1,19 +1,19 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Woogie&fontAlign=50&fontAlignY=40&color=gradient&customColorList=3,95,7,1,30&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?    type=waving&height=300&text=Woogie&fontAlign=50&fontAlignY=40&color=gradient&customColorList=3,95,7,1,30&animation=twinkling)
 
 
 
-### 👋 Hi there! I'm Woogie! 
+  ### 👋 Hi there! I'm Woogie! 
 
-🌱 I’m currently learning React! 
+  🌱 I’m currently learning React! 
 
 
-<br>
+  <br>
 
 ####  Languages & Library 📚
-  <br>
+<br>
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
