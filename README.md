@@ -3,8 +3,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Woogie&fontAlign=50&fontAlignY=40&color=gradient&customColorList=3,95,7,1,30&animation=twinkling)
 
-
-
   ### 👋 Hi there! I'm Woogie! 
 
   🌱 I’m currently learning React! 
