@@ -26,7 +26,7 @@
 
   <br>
 
-####  Tools 🛠
+  ####  Tools 🛠
   <br>
   <div style="display:flex;">
     <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/> 
@@ -41,16 +41,16 @@
   <br>
 
 
-###  MY GIT !
-<br>
+  ###  MY GIT !
+  <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfive&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyfive&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyfive&show_icons=true&theme=tokyonight)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyfive&layout=compact)
 
   
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,95,7,1,30&animation=twinkling&height=200&section=footer)
   
 
-  </div>
+</div>
